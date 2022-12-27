@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_wqrm-20risk-20forecast-20services-5f9b58aecef74-1d1c4d90e895e4d2",
+  "environment": "Default-dd67d505-4df8-4ca4-a309-9d00983c17d8",
+  "apiProperties": "apiProperties.json",
+  "apiDefinition": "apiDefinition.swagger.json",
+  "icon": "icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
